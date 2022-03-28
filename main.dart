@@ -34,5 +34,5 @@ void main(){
     }
     return id;
   }
-  print(getUniqueId() ?? getUniqueId());
+  print(getUniqueId());
 }
